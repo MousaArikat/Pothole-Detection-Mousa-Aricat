@@ -39,7 +39,7 @@ Example outputs include:
 
 ## Achievements
 - **4th Place** in the AI Hackathon organized by KPMG, Ministry of Digital Economy, and HTU.  
-- Awarded a **5000 JOD prize** for innovation and accuracy.
+- Awarded a **5000 JOD prize** to further work and improve the project and implementation.
 
 ## Future Improvements
 - Enhance the model with a larger, more diverse dataset.  
