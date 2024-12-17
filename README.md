@@ -12,7 +12,6 @@ This system takes an image as input, processes it using a trained YOLOv8 model, 
 ## Technologies Used
 - **YOLOv8**: State-of-the-art object detection model for locating potholes in images.  
 - **Python**: Programming language for building the model and application logic.  
-- **OpenCV**: Used for image processing and visualization.  
 - **Tkinter**: Built the GUI for an interactive user experience.  
 
 ## How It Works
@@ -36,8 +35,8 @@ This system takes an image as input, processes it using a trained YOLOv8 model, 
 The model achieved **high detection accuracy** on the test dataset.  
 Example outputs include:
 
-![Pothole Detection GUI](images/GUI.jpg)
-![Detected Potholes](results/GUI2.png)
+![Pothole Detection GUI](Images/GUI.jpg)
+![Detected Potholes](Images/GUI2.png)
 
 ## Future Improvements
 - Enhance the model with a larger, more diverse dataset.  
