@@ -36,7 +36,6 @@ The model achieved **high detection accuracy** on the test dataset.
 Example outputs include:
 
 ![Pothole Detection GUI](Images/GUI.jpg)
-![Detected Potholes](Images/GUI2.png)
 
 ## Future Improvements
 - Enhance the model with a larger, more diverse dataset.  
