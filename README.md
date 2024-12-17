@@ -37,7 +37,12 @@ Example outputs include:
 
 ![Pothole Detection GUI](Images/GUI.jpg)
 
+## Achievements
+- **4th Place** in the AI Hackathon organized by KPMG, Ministry of Digital Economy, and HTU.  
+- Awarded a **5000 JOD prize** for innovation and accuracy.
+
 ## Future Improvements
 - Enhance the model with a larger, more diverse dataset.  
 - Extend functionality to real-time pothole detection in video streams.  
 - Integrate GPS coordinates for detected potholes to assist road maintenance teams.
+- Implement this project in collaboration with the goverment.
